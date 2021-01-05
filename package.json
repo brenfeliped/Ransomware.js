@@ -1,0 +1,24 @@
+{
+  "name": "ransom.js",
+  "version": "1.0.0",
+  "description": "Um Ransomware escrito em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenfeliped/Ransomware.js.git"
+  },
+  "keywords": [
+    "Ransoware",
+    "Crypto",
+    "Nodejs"
+  ],
+  "author": "Breno Felipe",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/brenfeliped/Ransomware.js/issues"
+  },
+  "homepage": "https://github.com/brenfeliped/Ransomware.js#readme"
+}
